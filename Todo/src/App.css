@@ -1,0 +1,58 @@
+.App {
+  margin-top: 50px;
+  justify-content: center;
+  width: 100%;
+}
+
+.todo{
+  width: 205px;
+}
+
+.isdone{
+  width: 200px;
+}
+
+#Input {
+
+  width: 25rem;
+  justify-content: center;
+  
+}
+
+#addTodo {
+  
+  background-color: skyblue;
+  color: white;
+  
+}
+
+#toDoTitle {
+  background-color: green;
+  color: white;
+  width: 205px;
+  padding-left: 30px;
+  border-radius: 4px;
+}
+#isDoneTitle {
+  background-color: red;
+  color: white;
+  width: 205px;
+  padding-left: 30px;
+  border-radius: 4px;
+  
+  
+
+}
+
+#TodoListItem{
+  width: 205px;
+}
+
+
+
+
+
+
+
+
+
